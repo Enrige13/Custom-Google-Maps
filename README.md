@@ -1,5 +1,7 @@
 # Custom-Google-Maps
 
+Unter console.cloud.google.com - APIs & Dienst - Anmeldedaten - auf HTTP-Verweise-URLs (Websites) für live Veröffentlichung.
+
 Bright Green: rgb(64, 211, 31)
 Dark Green: rgb(64, 138, 30)
 Water: rgb(0, 89, 253)
